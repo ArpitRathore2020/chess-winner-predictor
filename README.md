@@ -1,1 +1,12 @@
-# chess-winner-predictor
+# Chess winner predictor
+<img width="1430" alt="1" src="https://github.com/user-attachments/assets/04bfed85-d295-4c14-9a5a-c0231c390fcd">
+<img width="1430" alt="2" src="https://github.com/user-attachments/assets/2a3d5e7a-b210-4865-ab55-1736f5dfa2e3">
+<img width="1430" alt="3" src="https://github.com/user-attachments/assets/383c7f1e-00fb-4dd8-8801-cb6c9d8cfe9d">
+<img width="1430" alt="4" src="https://github.com/user-attachments/assets/3f6c8e16-4669-4422-b408-ba173873d1d7">
+<img width="1430" alt="5" src="https://github.com/user-attachments/assets/de1653f2-032a-44ff-9b0c-2c49ad057ef2">
+<img width="1430" alt="6" src="https://github.com/user-attachments/assets/1c299fd8-eb65-4928-9af7-03567a0a18d0">
+<img width="1430" alt="7" src="https://github.com/user-attachments/assets/cd2a8d44-d035-4224-a26d-3cb92c390e50">
+<img width="1430" alt="8" src="https://github.com/user-attachments/assets/f065c0ca-92f4-42ea-af10-553f464c6374">
+<img width="1430" alt="9" src="https://github.com/user-attachments/assets/f29f0189-a53a-498f-a95b-d24c9069a823">
+<img width="1430" alt="10" src="https://github.com/user-attachments/assets/47da41eb-7c62-4a3c-8a71-fbb2a8ecfe30">
+<img width="1430" alt="11" src="https://github.com/user-attachments/assets/ff3aab5a-306c-4342-b7de-23f2dcd297c0">
